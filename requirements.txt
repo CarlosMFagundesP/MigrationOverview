@@ -11,5 +11,4 @@ sklearn
 scikit-learn
 xlrd
 plotly.express
-dash-dependencies
 plotly.graph_objs
