@@ -11,4 +11,3 @@ sklearn
 scikit-learn
 xlrd
 plotly.express
-plotly.graph_objs
