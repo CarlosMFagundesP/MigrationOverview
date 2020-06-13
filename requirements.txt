@@ -3,10 +3,13 @@ plotly
 dash
 requests
 dash_renderer
-dash-html-components
-dash-core-components
+dash_html_components
+dash_core_components
 pandas
 numpy
 sklearn
 scikit-learn
 xlrd
+plotly.express
+dash.dependencies
+plotly.graph_objs
